@@ -1,7 +1,7 @@
 /**
  * The version of the Anti cheat
  */
-export const VERSION = "2.0.0";
+export const VERSION = "3.0.0";
 
 /**
  * This is the staff tag that every part of this anti-cheat ignores!
@@ -10,12 +10,12 @@ export const VERSION = "2.0.0";
  *
  * @link https://www.uuidgenerator.net/
  */
-export const STAFF_TAG = "bd2b2da8-2811-4fb0-8bbd-b544dd01c2ff";
+export const STAFF_TAG = "Cursed-Network-Protection";
 
 /**
  * This is the appeal link that shows when someone igets banned
  */
-export const APPEAL_LINK = "https://discord.gg/dMa3A5UYKX";
+export const APPEAL_LINK = "https://discord.gg/zGvgFan6VP";
 
 /**
  * This is a list of items that are banned from holding
